@@ -1,0 +1,7 @@
+[project]
+name = "unified-api"
+version = "0.1.0"
+description = "Unified AI API"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

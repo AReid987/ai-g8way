@@ -1,0 +1,25 @@
+# AI Gateway 
+ 
+An intelligent, unified AI API with dope features.
+
+## Dope Features
+
+- A singular endpoint to interact with LLMs from any provider we can access
+    - Supports multiple models from different providers
+- Configurable, Automatic Retries
+- Configurable Fallback Mechanisms
+- Load Balancing across providers
+- Configurable, Intelligent Model Router
+  - Selects Models based on Step of Task 
+  - Select based on Cost or Performance
+  - Continuously Self Improving Router
+  - Feedback Loop for Router Improvements
+- Semantic Caching
+- Observability
+  - Monitoring
+  - Logging
+- Prompt Management
+  - Prompt Templates
+  - Prompt Partials 
+- Evaluations
+- 
